@@ -7,7 +7,7 @@ This repository contains the implementation of weakly-supervised skin lesion seg
 - PyTorch
 - OpenCV
 - NumPy
-- ISIC 2018 Dataset (Download required)
+- ISIC 2018 Dataset (Download)
 
 ## Dataset Requirement
 This project requires the **ISIC 2018 skin lesion dataset** for training and evaluation.
